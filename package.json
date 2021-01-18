@@ -1,6 +1,6 @@
 {
   "name": "topics-models",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sequelize models for better storing game movement data",
   "main": "index.js",
   "scripts": {
